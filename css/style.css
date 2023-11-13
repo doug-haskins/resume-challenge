@@ -15,7 +15,13 @@ body {
     background-color: #ffffff;
     position: -webkit-sticky; /* Safari */
     position: sticky;
-    top: 0;}
+    top: 0;
+}
+
+.outsider {
+    background-color: #575757;
+    height: 35px;
+}
 
 .top {
     width: 792px;
@@ -41,6 +47,7 @@ h2 {
     font-size: 20px;
     font-weight: normal;
     padding-bottom: 35px;
+    letter-spacing: 3px;
 }
 
 h3, .special {
