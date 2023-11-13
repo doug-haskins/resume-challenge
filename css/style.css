@@ -13,10 +13,12 @@ body {
 
 .outer {
     background-color: #ffffff;
-}
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;}
 
 .top {
-    width: 790px;
+    width: 792px;
     margin: 0 auto;
     text-align: center;
     border-bottom: 1px solid #575757;
