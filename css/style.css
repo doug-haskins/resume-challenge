@@ -23,6 +23,11 @@ body {
     height: 35px;
 }
 
+.topside {
+    background-color: #575757;
+    height: 35px;
+}
+
 .top {
     width: 792px;
     margin: 0 auto;
